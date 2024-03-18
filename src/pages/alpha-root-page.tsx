@@ -69,7 +69,7 @@ function App() {
           </>
         ) : (
           <>
-            <h2>Chat Room</h2>
+            <h2>Chat </h2>
             <div className="chatbox"></div>
             <input value={""} type="text" placeholder="Type a message..." />
             <button>Send</button>
